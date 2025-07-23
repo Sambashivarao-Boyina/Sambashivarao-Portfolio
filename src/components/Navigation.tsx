@@ -30,7 +30,7 @@ const Navigation: React.FC = () => {
 
   return (
     <nav className={`fixed top-0 w-full z-50 transition-all duration-300 ${
-      scrolled ? 'bg-slate-900/80 backdrop-blur-md shadow-lg' : 'bg-transparent'
+      scrolled || isOpen ? 'bg-slate-900/80 backdrop-blur-md shadow-lg' : 'bg-transparent'
     }`}>
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
