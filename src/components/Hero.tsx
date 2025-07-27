@@ -92,7 +92,7 @@ const Hero: React.FC = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1oqwEkt53Z530LekaCndGbahWa8HXwcSA/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1fQVZ_fMNxsHBInfsTerZ0wGBZFaLzMW5/view?usp=sharing"
               download
               className="group flex items-center gap-3 bg-gradient-to-r from-cyan-600/20 to-blue-600/20 backdrop-blur-md border border-cyan-500/30 rounded-full px-6 py-3 text-slate-300 hover:from-cyan-600/30 hover:to-blue-600/30 hover:text-white transition-all duration-300 hover:scale-105"
             >
