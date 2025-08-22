@@ -9,8 +9,8 @@ const Achievements: React.FC = () => {
       items: [
         {
           title: 'LeetCode Problem Solver',
-          description: 'Solved 550+ problems across various difficulty levels and topics on LeetCode platform',
-          highlight: '550+ Problems'
+          description: 'Solved 600+ problems across various difficulty levels and topics on LeetCode platform',
+          highlight: '600+ Problems'
         }
       ]
     },
